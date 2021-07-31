@@ -4,4 +4,6 @@ Freddy Vega tiene 32 años y nació en Colombia
 
 Alfonso correa mayor tiene 46 años y es una persona que contribuye en este proyecto de open source
 
+main 1
+
 Mañana nos enfocaremos en su vida laboral
